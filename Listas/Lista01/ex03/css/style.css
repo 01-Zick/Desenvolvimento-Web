@@ -1,0 +1,20 @@
+body{
+    background-color:rgb(78, 8, 78);
+}
+p {
+    color: aqua;
+}
+h1 {
+    color: aliceblue;
+}
+h4 {
+    color: rgb(246, 170, 55);
+}
+a{
+    color: rgb(209, 188, 230);
+}
+#imagem2{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
