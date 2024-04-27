@@ -19,4 +19,7 @@
 ### Atualizar repositório da maquina
     - Comandos
         git pull (do repositório "github" para a maquina)
-                
+
+### Verificar status dos arquivos
+    - Comando
+        git status
