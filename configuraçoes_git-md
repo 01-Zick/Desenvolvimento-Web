@@ -1,0 +1,25 @@
+# Configurações GIT
+
+### Configurar usuário
+    - comandos
+        git config --global user.name "nomeusuariogitub"
+        git config --global user.email "email usado no github"
+
+### Baixar repositório (github)
+    - Comandos
+         git clone link repositório
+
+### Adicionar e subir alterações no repositório (Github)
+
+    - Comandos
+        git add . (prepara os arquivos para subir no repositório)
+        git commit -m "Mensagem(aleatória)" (Adiciona mensagem explicando a mudança)
+        git push (Sobe os arquivos para o repositório)
+        
+### Atualizar repositório da maquina
+    - Comandos
+        git pull (do repositório "github" para a maquina)
+
+### Verificar status dos arquivos
+    - Comando
+        git status

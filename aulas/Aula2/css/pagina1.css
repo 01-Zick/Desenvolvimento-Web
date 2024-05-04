@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacquarda+Bastarda+9+Charted&family=Jersey+10&family=Jersey+10+Charted&family=Lugrasimo&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+h1 {
+    text-align: center;   
+    font-family: "Lugrasimo", cursive;
+    font-size:700%;   
+}
+img {
+    width: 700px;
+    height: 500px;
+/*Código para ajustes de*/
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+    h2 {
+        text-align: center;
+    }
+    p {
+        text-align: center;       
+    }
+
+    button {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+
+        height: 60px;
+        width: 300;
+        border: 3px solid white;
+        border-radius: 10px;
+        cursor: pointer;
+        transition: 10s ease-in-out;       
+        background: linear-gradient(#a4e872,#efe76c);
+       
+    }
+    button:hover {
+        background: linear-gradient(#0837c1,white) ;
+    }
+    button a {
+        color: rgb(17, 16, 16);
+        text-decoration: none;
+        
+    }
+    button a:hover {
+        color: black;
+    }
