@@ -60,6 +60,6 @@ button {
     transition: 5s;
 }
 
-.conteudo-formulario button: :active {
+.conteudo-formulario button:active {
     background: linear-gradient(#001a7b, #172444);
 }
